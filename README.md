@@ -2,7 +2,7 @@
 
 Welcome to my personal Github account! :confetti_ball:
 
-I am Ramon. A **Senior Software Engineer** with a decade worth of experience
+I'm a **Senior Software Engineer** with a decade worth of experience
 building and maintain large scale systems in a variety of industries.
 
 
